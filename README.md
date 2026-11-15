@@ -122,3 +122,6 @@ Ver `diagrama_flujo.png`.
 === Integrantes ===
 --> Guadalupe Nahir Ozan
 --> Tomas Joaquin Rivas
+
+# Enlace del video
+https://drive.google.com/file/d/1PJ0XDJod-8olkRmnjHlTMjhaBq9dR2w3/view?usp=drive_link
